@@ -17,3 +17,6 @@ The program reads a list of connections from an input file and constructs a grap
 ## Output
 
 If a chain connection exists between the source and destination, the program will output the shortest path. If no chain connection is found, a corresponding message will be displayed.
+
+#### Sample Output
+![image](https://github.com/YBansal95/shortest-chain-connection/assets/93127656/7db15e65-6efa-44cc-bf40-f0651df3e8a5)
